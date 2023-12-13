@@ -12,7 +12,7 @@ These are some of the technologies and tools that I work with:-
 Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/-Nextjs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
+![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 
 
 Frontend
@@ -24,9 +24,9 @@ Frontend
 
 
 Database:
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
 
 Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -38,14 +38,13 @@ Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 
 
 IDEs:
-
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
+![PyCharm](https://img.shields.io/badge/-PyCharm-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-juypter-notebook-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <!--
 **roushan-sheik/roushan-sheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
