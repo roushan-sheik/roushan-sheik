@@ -11,7 +11,7 @@ These are some of the technologies and tools that I work with:-
 
 Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Expressjs](https://img.shields.io/badge/-Expressjs-339933?style=flat-square&logo=Express.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-339933?style=flat-square&logo=express.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 
