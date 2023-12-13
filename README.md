@@ -18,7 +18,7 @@ Backend:
 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwind)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react)
 
