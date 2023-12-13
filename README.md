@@ -3,7 +3,7 @@
 I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience. I specialize in data structures, algorithms, and efficient code writing. My expertise includes popular frameworks like React.js, Next.js, and Express.js, enabling me to create dynamic web applications. Currently, I work as a dedicated backend developer, architecting and maintaining server-side components. My passion for web development and commitment to staying updated with the latest technologies make me a valuable asset to any project or team.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
+[![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
 
 ## ⚡ Technologies
 
