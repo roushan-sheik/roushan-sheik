@@ -4,7 +4,6 @@ I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
-
 [![Facebook: roushan-sheik](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdrowshansheikh008/)](https://www.facebook.com/mdrowshansheikh008/)
 ## ⚡ Technologies
 
