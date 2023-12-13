@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#Hi, I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience. I specialize in data structures, algorithms, and efficient code writing. My expertise includes popular frameworks like React.js, Next.js, and Express.js, enabling me to create dynamic web applications. Currently, I work as a dedicated backend developer, architecting and maintaining server-side components. My passion for web development and commitment to staying updated with the latest technologies make me a valuable asset to any project or team.
+
 <!--
 **roushan-sheik/roushan-sheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
