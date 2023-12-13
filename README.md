@@ -12,7 +12,7 @@ These are some of the technologies and tools that I work with:-
 Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJS-E0234E?style=flat-square&logo=nextjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 
 
 Frontend
