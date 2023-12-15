@@ -1,11 +1,11 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Roushan+Sheik+;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;I+am+Software+Developer+(MERN);)](https://git.io/typing-svg)
 I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience. I specialize in data structures, algorithms, and efficient code writing. My expertise includes popular frameworks like React.js, Next.js, and Express.js, enabling me to create dynamic web applications. Currently, I work as a dedicated backend developer, architecting and maintaining server-side components. My passion for web development and commitment to staying updated with the latest technologies make me a valuable asset to any project or team.
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
 [![Facebook: roushan-sheik](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdrowshansheikh008/)](https://www.facebook.com/mdrowshansheikh008/)
-## ⚡ Technologies
-
+### ⚡ Technologies
 These are some of the technologies and tools that I work with:-
 
 Backend:
@@ -45,7 +45,7 @@ IDEs:
 ![Jupyter Notebook](https://img.shields.io/badge/-JuypterNotebook-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/> 
