@@ -15,7 +15,7 @@ Backend:
 ![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 
 
-<span style={{display:flex}}>
+<span style={{display:flex, flexDirection:row}}>
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
   <h4>Frontend</h4>
 </span>
