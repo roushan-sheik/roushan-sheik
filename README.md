@@ -15,13 +15,13 @@ Backend:
 ![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 
 Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="22"/> 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=tailwindcss)
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="22"/> 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> 
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="22"/> <img src=" 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="22"/> 
 <img src="https://img.shields.io/badge/-redux-593D88?style=flat&logo=redux&logoColor=FFFFFF" height="22"/>
 
 Database:
