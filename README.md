@@ -49,11 +49,10 @@ IDEs:
 ![Jupyter Notebook](https://img.shields.io/badge/-JuypterNotebook-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Roushan+Sheik+;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;I+am+Software+Developer+(MERN);)](https://git.io/typing-svg)
  
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>
 <!--
 **roushan-sheik/roushan-sheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
