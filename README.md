@@ -7,16 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
 [![Facebook: roushan-sheik](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdrowshansheikh008/)](https://www.facebook.com/mdrowshansheikh008/)
-
-<!-- add: features -->
-
-<h3>Little facts about me 🧑</h3>
-- 🔭 I’m currently working on Fontend Web Development. <br>
-- 🧞 I'm a Tech Enthusiast since childhood.<br>
-- 💡 Contributing to Open Source Projects is always been a goal to me.<br>
-- 👯 I’m looking to collaborate with Fontend Web Developement projects.<br>
-- ⚡ Fun fact: I love sports, especially Football.<br>
-
+ 
 ### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:-
@@ -80,6 +71,8 @@ IDEs:
   </div>
 </br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 <!-- Add:============ -->
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
