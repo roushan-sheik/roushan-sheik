@@ -2,7 +2,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br>I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
@@ -50,6 +49,34 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-007ACC?style=flat-square&logo=visual-studio-code&logoColor=red)
 ![Jupyter Notebook](https://img.shields.io/badge/-JuypterNotebook-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<!-- Add:============ New -->
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/roushan-sheik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan-sheik&theme=radical&border=#4c1d95&background=0D1117" alt="Roushan Sheik"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/roushan-sheik">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roushan-sheik&theme=radical" alt="all GitHub Contribution"/>
+  </a>
+</p>
+
+<a > 
+    
+  <div>
+    <a href="https://github.com/roushan-sheik"><img alt="Roushan Sheik" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roushan-sheik&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/roushan-sheik"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roushan-sheik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
+  
+</a>
+  </div>
+</br>
+
+<!-- Add:============ -->
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
 
