@@ -7,14 +7,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
 [![Facebook: roushan-sheik](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdrowshansheikh008/)](https://www.facebook.com/mdrowshansheikh008/)
+
 <!-- add: features -->
 
 <h3>Little facts about me 🧑</h3>
-- 🔭 I’m currently working on Fontend Web Development.
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- 👯 I’m looking to collaborate with Fontend Web Developement projects.
-- ⚡ Fun fact: I love sports, especially Football.
+- 🔭 I’m currently working on Fontend Web Development. <br>
+- 🧞 I'm a Tech Enthusiast since childhood.<br>
+- 💡 Contributing to Open Source Projects is always been a goal to me.<br>
+- 👯 I’m looking to collaborate with Fontend Web Developement projects.<br>
+- ⚡ Fun fact: I love sports, especially Football.<br>
 
 ### ⚡ Technologies
 
@@ -23,7 +24,7 @@ These are some of the technologies and tools that I work with:-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-339933?style=flat-square&logo=express.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black) 
+![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="20"/>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=tailwindcss)
