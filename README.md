@@ -51,7 +51,7 @@ IDEs:
 
 <p align="center">
   <a href="https://github.com/roushan-sheik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan-sheik&theme=react&border=61dafb&hide_border=true"  background="0D1117" alt="Roushan Sheik"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan-sheik&theme=radical&border=#4c1d95&background=0D1117" alt="Roushan Sheik"/>
   </a>
 </p>
 
@@ -64,8 +64,8 @@ IDEs:
 <a > 
     
   <div>
-    <a href="https://github.com/roushan-sheik"><img alt="Roushan Sheik" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roushan-sheik&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/roushan-sheik"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roushan-sheik&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="192px" width="49.5%" /></a>
+    <a href="https://github.com/roushan-sheik"><img alt="Roushan Sheik" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roushan-sheik&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/roushan-sheik"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roushan-sheik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
   
 </a>
   </div>
