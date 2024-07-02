@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋  -->
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
- 
-<p>Welcome to my page! </br> I'm Roushan Sheik, Fullstack developer from Bangladesh.   
-<h3>Things I code with</h3>
+
+
+<p>Welcome to my page! </br>I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
