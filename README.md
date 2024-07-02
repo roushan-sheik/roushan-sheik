@@ -50,10 +50,9 @@ IDEs:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/roushan-sheik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan-sheik&theme=radical&border=#4c1d95&background=0D1117" alt="Roushan Sheik"/>
-  </a>
-</p>
+   <a href="https://github.com/roushan-sheik/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=roushan-sheik&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
 
 <p align="center">
   <a href="https://github.com/roushan-sheik">
