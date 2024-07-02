@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
 [![Linkedin: roushan-sheik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/roushan-sheik/)](https://www.linkedin.com/in/roushan-sheik/)
 [![Facebook: roushan-sheik](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdrowshansheikh008/)](https://www.facebook.com/mdrowshansheikh008/)
- 
+
 ### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:-
@@ -71,7 +71,7 @@ IDEs:
   </div>
 </br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <!-- Add:============ -->
 
