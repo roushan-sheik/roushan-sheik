@@ -55,12 +55,6 @@ IDEs:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/roushan-sheik">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roushan-sheik&theme=radical" alt="all GitHub Contribution"/>
-  </a>
-</p>
-
 <a > 
     
   <div>
