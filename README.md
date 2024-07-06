@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋  -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+ <img src="./images/roushan sheik github banner.png" alt="Roushan Sheik" />
 
 <p>Welcome to my page! </br>I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience.
 
