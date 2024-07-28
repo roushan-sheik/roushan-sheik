@@ -43,14 +43,7 @@ IDEs:
 ![Jupyter Notebook](https://img.shields.io/badge/-JuypterNotebook-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <!-- Add:============ New -->
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/roushan-sheik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan-sheik&theme=radical&border=#4c1d95&background=0D1117" alt="Roushan Sheik"/>
-  </a>
-</p>
+<br>
 
 <a > 
     
