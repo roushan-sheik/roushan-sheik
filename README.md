@@ -1,7 +1,4 @@
 <!-- ### Hi there 👋  -->
-
- <img src="./images/roushan sheik github banner.png" alt="Roushan Sheik" />
-
 <p>Welcome to my page! </br>I'm Roushan Sheik, a skilled JavaScript programmer with three years of hands-on experience.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RoushanSheik?style=social)](https://twitter.com/RoushanSheik)
