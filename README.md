@@ -16,13 +16,13 @@
     </td>
        <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/tailwind.PNG" width="48" height="48" alt="TailwindCSS" />
+        <img src="./img/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/reactjs.WEBP" width="48" height="48" alt="React" />
+        <img src="./img/reactjs.webp" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nextjs.WEBP" width="48" height="48" alt="Next Js" />
+        <img src="./img/nextjs.webp" width="48" height="48" alt="Next Js" />
       </a>
       <br>Next JS
     </td>
