@@ -46,7 +46,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/prisma-2.png" width="48" height="48" alt="Prisma" />
+        <img src="./img/prisma-final.png" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
