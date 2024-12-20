@@ -66,8 +66,8 @@
   </tr>
 </table> 
 <!-- description  -->
-<h2>Mern Stack Expertise</h2>
-<p>I'm a Full-Stack Developer focused on the MERN stack, creating responsive web applications with React.js, Next.Js, Node.js, and MongoDB. I prioritize clean, efficient code and constantly sharpen my skills in modern web technologies.</p>
+<h2>Full Stack Expertise</h2>
+<p>I'm a Full-Stack Developer, creating responsive web applications with React.js, Next.Js, Node.js, Prisma , PostgreSQL and MongoDB. I prioritize clean, efficient code and constantly sharpen my skills in modern web technologies.</p>
 <!-- contact info  -->
 <h2 style="margin: 25px 0px;color:#00dfa2;">Where to find me</h2>
 
