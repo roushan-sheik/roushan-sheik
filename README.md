@@ -44,12 +44,25 @@
       </a>
       <br>Next JS
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/prisma-2.PNG" width="48" height="48" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+        <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/sql2.PNG" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/mongo-db.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
+
   </tr>
 </table> 
 <!-- description  -->
