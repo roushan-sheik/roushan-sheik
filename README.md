@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋  -->
 
- <img src="./img/update-banner.png" alt="Roushan Sheik">
+ <img src="./img/banner-light.png" alt="Roushan Sheik">
 
 <!-- Contact Me  -->
 
